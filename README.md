@@ -28,3 +28,14 @@ Our model also uses common census data to make its predictions, like the number 
 There are a few enhancements that can still be made to the model. Before implementation, more expert opinions could be sought to advise on the features to select/additional features to gather, likely to have the highest impact on expenses. The tax adjustment ratio could also be customized to increase/decrease weightage on additional spending. It would help to further refine the proposed tax.
 <br><br>
 In conclusion, our model is based on sound socio-economic principles and addresses the problem statement effectively.
+<br><br>
+## Results
+
+- Adjusted Vs Current Tax for unnecessary expenditure
+
+![alt text](assests/Adjustedvscurrenttax.jpg "Adjusted Tax higher than Current Tax for unnecessary expenditure")
+
+- Distribution of tax amount
+
+![alt text](assests/Distributionoftaxamount.jpg "Distribution of tax amounts")
+
